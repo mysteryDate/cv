@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 JUL 2016 14:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  13 AUG 2016 11:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -904,29 +904,29 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 64.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 97.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 98.
 
-Underfull \hbox (badness 3690) in paragraph at lines 143--143
+Underfull \hbox (badness 3690) in paragraph at lines 145--145
 []\T1/lmss/m/n/10 (+20) Professor Marcelo Wan-derly: Di-rec-tor of ID-MIL and C
 IR-MMT lab-o-ra-to-ries.
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 184.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 186.
 [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logo-
 frame1.jpg>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 184.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 186.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 184.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 184.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 186.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 186.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 9AFF70A008980A86F8DE1786E4BC9764;438.
  ) 
 Here is how much of TeX's memory you used:
  17602 strings out of 493089
  294309 string characters out of 6134842
- 387918 words of memory out of 5000000
+ 388918 words of memory out of 5000000
  20873 multiletter control sequences out of 15000+600000
  63150 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -939,7 +939,7 @@ type1/public/lm/lmss9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publi
 c/lm/lmssbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lms
 so10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsso9.pfb><
 /usr/local/texlive/2015/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on main.pdf (1 page, 184991 bytes).
+Output written on main.pdf (1 page, 186274 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  59 compressed objects within 1 object stream
