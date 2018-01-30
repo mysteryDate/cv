@@ -190,10 +190,10 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/lmsy7.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmss12.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmsso9.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
 INPUT /usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT main.aux
 INPUT ./main.out

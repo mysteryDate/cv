@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  15 NOV 2017 15:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  29 JAN 2018 20:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -918,23 +918,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--57
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 60.
+(Font)              <10> on input line 66.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 60.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 64.
+(Font)              <7> on input line 66.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 104.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 192.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 94.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 111.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 191.
 [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logo-frame1.jpg>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 192.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 191.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 192.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 192.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 191.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 191.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 9AFF70A008980A86F8DE1786E4BC9764;438.
+(rerunfilecheck)             Checksum: 3BCB9880B4D1A846AB1D7A0C85FFA9D7;438.
  ) 
 Here is how much of TeX's memory you used:
  19338 strings out of 492995
@@ -945,7 +945,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  39i,18n,45p,10356b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmss9.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsso9.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on main.pdf (1 page, 186579 bytes).
+Output written on main.pdf (1 page, 186306 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  59 compressed objects within 1 object stream
