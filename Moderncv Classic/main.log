@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  5 JUN 2018 05:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  17 JUL 2018 15:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -937,15 +937,15 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 3BCB9880B4D1A846AB1D7A0C85FFA9D7;438.
  ) 
 Here is how much of TeX's memory you used:
- 19336 strings out of 492995
- 324620 string characters out of 6132704
- 417967 words of memory out of 5000000
- 22675 multiletter control sequences out of 15000+600000
+ 19334 strings out of 492995
+ 324577 string characters out of 6132704
+ 417940 words of memory out of 5000000
+ 22673 multiletter control sequences out of 15000+600000
  63041 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,18n,45p,10356b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmss9.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsso9.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on main.pdf (1 page, 187136 bytes).
+Output written on main.pdf (1 page, 184771 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  59 compressed objects within 1 object stream
